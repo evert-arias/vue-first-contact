@@ -1,2 +1,2 @@
-# vue-heyform
-Vue Heyform contact form
+# vue-first-contact
+FirstContact component for Vue

@@ -1,2 +1,3 @@
 # vue-first-contact
-FirstContact component for Vue
+
+FirstContact form for Vue

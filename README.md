@@ -1,3 +1,3 @@
-# vue-first-contact
+# 👋 FirstContact
 
-FirstContact form for Vue
+ A ready-to-use contact form
